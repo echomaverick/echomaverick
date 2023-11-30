@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hello, I'm Samuel 👋</h1>
     <p>Web Developer 💻</p>
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Profile Image">
+    <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://media.giphy.com/media/BgKEiHf1xNV0h6IcSX/giphy.gif)" alt="Profile Image">
     <h3>Connect with me:</h3>
     <a href="https://linkedin.com/in/samueldervishi" target="_blank"><img src="https://your-linkedin-icon-url.com" alt="LinkedIn" height="30" width="30" /></a>
     <a href="https://twitter.com/codzmaestro" target="_blank"><img src="https://your-twitter-icon-url.com" alt="Twitter" height="30" width="30" /></a>

@@ -18,7 +18,7 @@
   </div>
 
 <div align="center">
-    <p>📫 Drop me a message at <a href="mailto:alex.doe@email.com">dervishisamuel360@gmail.com</a></p>
+    <p>📫 Drop me a message at <a href="mailto:dervishisamuel360@gmail.com">dervishisamuel360@gmail.com</a></p>
 </div>
 
 <div align="center">

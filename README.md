@@ -1,12 +1,10 @@
 <div align="center">
     <h1>Hello, I'm Alex 👋</h1>
     <p>Web Developer 💻</p>
-    <img src="https://your-image-url.com" alt="Profile Image">
+    <img src="https://ibb.co/DCVBcb3" alt="Profile Image">
     <h3>Connect with me:</h3>
-    <a href="https://linkedin.com/in/alex-doe" target="_blank"><img src="https://your-linkedin-icon-url.com" alt="LinkedIn" height="30" width="30" /></a>
-    <a href="https://twitter.com/alex_doe" target="_blank"><img src="https://your-twitter-icon-url.com" alt="Twitter" height="30" width="30" /></a>
-    <a href="https://github.com/alex-doe" target="_blank"><img src="https://your-github-icon-url.com" alt="GitHub" height="30" width="30" /></a>
-    <a href="https://codepen.io/alex_d" target="_blank"><img src="https://your-codepen-icon-url.com" alt="CodePen" height="30" width="30" /></a>
+    <a href="https://linkedin.com/in/samueldervishi" target="_blank"><img src="https://your-linkedin-icon-url.com" alt="LinkedIn" height="30" width="30" /></a>
+    <a href="https://twitter.com/codzmaestro" target="_blank"><img src="https://your-twitter-icon-url.com" alt="Twitter" height="30" width="30" /></a>
 </div>
 
 <div align="center">
@@ -18,7 +16,7 @@
 </div>
 
 <div align="center">
-    <p>📫 Drop me a message at <a href="mailto:alex.doe@email.com">alex.doe@email.com</a></p>
+    <p>📫 Drop me a message at <a href="mailto:alex.doe@email.com">dervishisamuel360@gmail.com</a></p>
 </div>
 
 <div align="center">

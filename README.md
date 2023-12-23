@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hello, I'm Samuel 👋</h1>
-    <p>Web Developer 💻</p>
+    <p>Backend Developer 💻</p>
     <img src="https://media.giphy.com/media/BgKEiHf1xNV0h6IcSX/giphy.gif" alt="Profile Image">
     <h3>Connect with me:</h3>
     <a href="https://linkedin.com/in/samueldervishi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>

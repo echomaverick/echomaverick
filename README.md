@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm Samuel a backend developer with a knack for problem-solving. Currently immersed in the world of Java development. Outside of coding, you'll find me on the basketball court, embarking on thrilling escapades, and exploring the art of storytelling in cinema.
+Hello! 👋 I'm Samuel a backend developer with a knack for problem-solving. Currently immersed in the world of Java development. Outside of coding, you'll find me on the basketball court and exploring the art of storytelling in cinema.
 
 
 ## 🌐 Socials:

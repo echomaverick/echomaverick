@@ -2,10 +2,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=echomaverick&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-<!--[![wakatime](https://wakatime.com/badge/user/1a7420f3-84c0-43c9-a541-d15948ddcde6.svg)](https://wakatime.com/@1a7420f3-84c0-43c9-a541-d15948ddcde6)-->
-
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://samueldervishi.vercel.app">Sam</a></b>
@@ -33,7 +29,6 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="sam" />
  </a> 
 </p>
-<br />Al Siam's GitHub Activity Grap
 
 <!-- About Section -->
  # About me

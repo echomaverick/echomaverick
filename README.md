@@ -11,10 +11,7 @@
 
 <p align="center"> 
   <samp>
-    <br>
-    「 I am a back-end Java developer from <b>Albania</b> 」
-    <br>
-    <br>
+    「 I am a back-end Java developer 」
   </samp>
 </p>
 
@@ -22,12 +19,6 @@
  <a href="https://samueldervishi.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sam" />
  </a>
- <a href="https://linkedin.com/in/samueldervishi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sam"/>
- </a>
- <a href="https://instagram.com/samueldervishi_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="sam" />
- </a> 
 </p>
 
 <!-- About Section -->
@@ -39,7 +30,6 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/echomaverick/echomaverick/issues)
-
 </p>
 <br/>
 

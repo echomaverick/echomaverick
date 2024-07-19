@@ -39,19 +39,19 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/echomaverick">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=echomaverick&theme=radical&border=7F3FBF&background=0D1117">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=echomaverick&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/echomaverick">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=echomaverick&theme=radical">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=echomaverick&theme=radical" alt="GitHub Contribution"/>
   </a>
 </p>
 <a> 
-  <a href="https://github.com/echomaverick"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=echomaverick&hide_border=false&include_all_commits=true&count_private=false&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/echomaverick"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=echomaverick&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=echomaverick&hide_border=false&include_all_commits=true&count_private=false&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=echomaverick&hide_border=false&include_all_commits=true&count_private=false&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true" height="192px" width="49.5%"/></a>
+  <a href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=echomaverick&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=echomaverick&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 

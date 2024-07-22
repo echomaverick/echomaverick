@@ -49,7 +49,7 @@
   </a>
 </p>
 <a> 
-  <a href="https://github-readme-stats.vercel.app/api?username=echomaverick&hide_border=false&include_all_commits=true&count_private=false&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=echomaverick&hide_border=false&include_all_commits=true&count_private=false&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true" height="192px" width="49.5%"/></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=echomaverick&theme=react&hide_border=false&include_all_commits=false&count_private=false&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=echomaverick&hide_border=false&include_all_commits=true&count_private=false&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true" height="192px" width="49.5%"/></a>
   <a href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=echomaverick&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=echomaverick&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
